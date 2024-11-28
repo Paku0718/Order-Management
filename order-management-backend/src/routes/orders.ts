@@ -15,7 +15,12 @@ router.get('/', async (req, res, next) => {
       sortDirection
     );
 
-    res.json(orders);
+    // Ensure consistent response structure
+    res.json({
+      data: orders.data,
+      nextCursor: orders.nextCursor,
+      totalCount: orders.totalCount
+    });
   } catch (error) {
     next(error);
   }
