@@ -1,0 +1,12 @@
+{"body":{},"level":"info","message":"Incoming GET request to /","method":"GET","path":"/","query":{},"timestamp":"2024-11-28T11:03:17.306Z"}
+{"duration":"12ms","level":"info","message":"GET / - 404","method":"GET","path":"/","status":404,"timestamp":"2024-11-28T11:03:17.317Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /","method":"GET","path":"/","query":{},"timestamp":"2024-11-28T11:03:19.912Z"}
+{"duration":"2ms","level":"info","message":"GET / - 404","method":"GET","path":"/","status":404,"timestamp":"2024-11-28T11:03:19.914Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{},"timestamp":"2024-11-28T11:04:25.480Z"}
+{"duration":"199ms","level":"info","message":"GET / - 200","method":"GET","path":"/","status":200,"timestamp":"2024-11-28T11:04:25.679Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"100"},"timestamp":"2024-11-28T11:04:55.041Z"}
+{"duration":"12ms","level":"info","message":"GET / - 200","method":"GET","path":"/","status":200,"timestamp":"2024-11-28T11:04:55.053Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"100"},"timestamp":"2024-11-28T11:05:09.267Z"}
+{"duration":"13ms","level":"info","message":"GET / - 200","method":"GET","path":"/","status":200,"timestamp":"2024-11-28T11:05:09.280Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"sort":"order_amount","sortDirection":"desc"},"timestamp":"2024-11-28T11:05:36.184Z"}
+{"duration":"9ms","level":"info","message":"GET / - 200","method":"GET","path":"/","status":200,"timestamp":"2024-11-28T11:05:36.193Z"}

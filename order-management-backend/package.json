@@ -1,0 +1,35 @@
+{
+  "name": "order-management-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node-dev --respawn --transpile-only src/index.ts",
+    "seed": "ts-node src/db/seed.ts",
+    "build": "tsc",
+    "migrate": "psql -U postgres -d order_management_db -a -f src/db/migrations/initial-migration.sql"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.0",
+    "@types/winston": "^2.4.4",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "joi": "^17.13.3",
+    "order-management-backend": "file:",
+    "pg": "^8.13.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2",
+    "winston": "^3.17.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.2.0",
+    "@types/pg": "^8.11.10",
+    "ts-node-dev": "^2.0.0"
+  }
+}
