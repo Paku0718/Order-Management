@@ -27,20 +27,20 @@ This is a full-stack Order Management application built with a Next.js frontend 
 - npm (v9 or later)
 - PostgreSQL (v13 or later)
 
-## Project Structure
+## Install Dependencies
 
-order-management/
-│
-├── order-management-backend/   # Backend API
-│   ├── src/
-│   │   ├── config/
-│   │   ├── db/
-│   │   ├── middleware/
-│   │   ├── routes/
-│   │   └── ...
-│   └── package.json
-│
-└── order-management-frontend/  # Frontend Application
+for Backend
+
+- npm install
+- npm run migrate
+- npm run seed
+- npm start
+
+for Frontend
+
+- npm install
+- npm run dev
+  
 ├── src/
 │   ├── components/
 │   ├── hooks/
