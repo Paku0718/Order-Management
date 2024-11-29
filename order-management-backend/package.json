@@ -7,7 +7,8 @@
     "start": "ts-node-dev --respawn --transpile-only src/index.ts",
     "seed": "ts-node src/db/seed.ts",
     "build": "tsc",
-    "migrate": "psql -U postgres -d order_management_db -a -f src/db/migrations/initial-migration.sql"
+    "migrate": "psql -U postgres -d order_management_db -a -f src/db/migrations/initial-migration.sql",
+    "serve": "node dist/index.js"
   },
   "keywords": [],
   "author": "",
@@ -20,6 +21,7 @@
     "@types/winston": "^2.4.4",
     "config": "^3.3.12",
     "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
     "joi": "^17.13.3",

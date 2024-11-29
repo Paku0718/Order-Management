@@ -7,6 +7,7 @@ const router = express.Router();
 router.get('/', async (req, res, next) => {
   try {
     const { cursor, limit, sort, sortDirection } = validateOrderQuery(req.query);
+    // console.log('Validated parameters:', { cursor, limit, sort, sortDirection });
 
     const orders = await getOrders(
       cursor || null, 
@@ -15,13 +16,10 @@ router.get('/', async (req, res, next) => {
       sortDirection
     );
 
-    // Ensure consistent response structure
-    res.json({
-      data: orders.data,
-      nextCursor: orders.nextCursor,
-      totalCount: orders.totalCount
-    });
+    // console.log('Orders fetched:', orders.data.length);
+    res.json(orders);
   } catch (error) {
+    // console.error('Error in orders route:', error);
     next(error);
   }
 });

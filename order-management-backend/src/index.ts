@@ -27,6 +27,10 @@ app.use('/api/orders', ordersRouter);
 // Error handling
 app.use(errorHandler);
 
+app.get('/api/test', (req, res) => {
+  res.json({ message: 'Backend is working!' });
+});
+
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
