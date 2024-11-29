@@ -134,3 +134,41 @@
 {"duration":"49ms","level":"info","message":"GET / - 304","method":"GET","path":"/","status":304,"timestamp":"2024-11-29T09:18:02.156Z"}
 {"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"50","sort":"created_at","sortDirection":"desc"},"timestamp":"2024-11-29T09:18:08.921Z"}
 {"duration":"12ms","level":"info","message":"GET / - 304","method":"GET","path":"/","status":304,"timestamp":"2024-11-29T09:18:08.933Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"50","sort":"created_at","sortDirection":"desc"},"timestamp":"2024-11-29T10:53:49.975Z"}
+{"duration":"280ms","level":"info","message":"GET / - 304","method":"GET","path":"/","status":304,"timestamp":"2024-11-29T10:53:50.255Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"50","sort":"created_at","sortDirection":"desc"},"timestamp":"2024-11-29T10:55:18.233Z"}
+{"duration":"83ms","level":"info","message":"GET / - 304","method":"GET","path":"/","status":304,"timestamp":"2024-11-29T10:55:18.317Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"50","sort":"created_at","sortDirection":"desc"},"timestamp":"2024-11-29T10:55:31.561Z"}
+{"duration":"11ms","level":"info","message":"GET / - 304","method":"GET","path":"/","status":304,"timestamp":"2024-11-29T10:55:31.571Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"50","sort":"created_at","sortDirection":"desc"},"timestamp":"2024-11-29T10:56:40.540Z"}
+{"duration":"104ms","level":"info","message":"GET / - 304","method":"GET","path":"/","status":304,"timestamp":"2024-11-29T10:56:40.644Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"50","sort":"created_at","sortDirection":"desc"},"timestamp":"2024-11-29T10:58:25.885Z"}
+{"duration":"174ms","level":"info","message":"GET / - 304","method":"GET","path":"/","status":304,"timestamp":"2024-11-29T10:58:26.059Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"50","sort":"created_at","sortDirection":"desc"},"timestamp":"2024-11-29T10:58:39.298Z"}
+{"duration":"15ms","level":"info","message":"GET / - 304","method":"GET","path":"/","status":304,"timestamp":"2024-11-29T10:58:39.313Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"50","sort":"created_at","sortDirection":"desc"},"timestamp":"2024-11-29T10:58:40.490Z"}
+{"duration":"12ms","level":"info","message":"GET / - 304","method":"GET","path":"/","status":304,"timestamp":"2024-11-29T10:58:40.502Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"50","sort":"created_at","sortDirection":"desc"},"timestamp":"2024-11-29T10:58:41.963Z"}
+{"duration":"16ms","level":"info","message":"GET / - 304","method":"GET","path":"/","status":304,"timestamp":"2024-11-29T10:58:41.979Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"50","sort":"created_at","sortDirection":"desc"},"timestamp":"2024-11-29T10:58:42.769Z"}
+{"duration":"11ms","level":"info","message":"GET / - 304","method":"GET","path":"/","status":304,"timestamp":"2024-11-29T10:58:42.780Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"50","sort":"created_at","sortDirection":"desc"},"timestamp":"2024-11-29T10:58:43.582Z"}
+{"duration":"12ms","level":"info","message":"GET / - 304","method":"GET","path":"/","status":304,"timestamp":"2024-11-29T10:58:43.594Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"50","sort":"created_at","sortDirection":"desc"},"timestamp":"2024-11-29T10:58:44.181Z"}
+{"duration":"10ms","level":"info","message":"GET / - 304","method":"GET","path":"/","status":304,"timestamp":"2024-11-29T10:58:44.191Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"50","sort":"created_at","sortDirection":"desc"},"timestamp":"2024-11-29T10:58:44.373Z"}
+{"duration":"11ms","level":"info","message":"GET / - 304","method":"GET","path":"/","status":304,"timestamp":"2024-11-29T10:58:44.384Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"50","sort":"createdAt"},"timestamp":"2024-11-29T10:59:43.050Z"}
+{"duration":"60ms","level":"info","message":"GET / - 200","method":"GET","path":"/","status":200,"timestamp":"2024-11-29T10:59:43.109Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"50","sort":"createdAt","sortDirection":"desc"},"timestamp":"2024-11-29T10:59:50.122Z"}
+{"duration":"9ms","level":"info","message":"GET / - 200","method":"GET","path":"/","status":200,"timestamp":"2024-11-29T10:59:50.131Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"50","sort":"created_at","sortDirection":"desc"},"timestamp":"2024-11-29T11:00:49.799Z"}
+{"duration":"106ms","level":"info","message":"GET / - 304","method":"GET","path":"/","status":304,"timestamp":"2024-11-29T11:00:49.905Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"limit":"50","sort":"created_at","sortDirection":"desc"},"timestamp":"2024-11-29T11:05:11.630Z"}
+{"duration":"264ms","level":"info","message":"GET / - 304","method":"GET","path":"/","status":304,"timestamp":"2024-11-29T11:05:11.893Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"cursor":"eyJjcmVhdGVkX2F0IjoiMjAyNC0xMS0yNlQxNTo1NzoyOS42MDFaIiwiaWQiOiI1ZGNkYmI0Yi0wYzkyLTQwMTUtOWUwOS0wZmZhNzJjZTljOGIifQ==","limit":"50","sort":"created_at","sortDirection":"desc"},"timestamp":"2024-11-29T11:05:18.872Z"}
+{"duration":"42ms","level":"info","message":"GET / - 200","method":"GET","path":"/","status":200,"timestamp":"2024-11-29T11:05:18.913Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"cursor":"eyJjcmVhdGVkX2F0IjoiMjAyNC0xMS0yNFQxMTo0NjoyMi43MjFaIiwiaWQiOiJkMGQwZjBjZC0wMjI4LTQ4ZjgtYTA4OC1jYzBkYmJkMTgyZTIifQ==","limit":"50","sort":"created_at","sortDirection":"desc"},"timestamp":"2024-11-29T11:05:19.763Z"}
+{"duration":"16ms","level":"info","message":"GET / - 200","method":"GET","path":"/","status":200,"timestamp":"2024-11-29T11:05:19.779Z"}
+{"body":{},"level":"info","message":"Incoming GET request to /api/orders","method":"GET","path":"/api/orders","query":{"cursor":"eyJjcmVhdGVkX2F0IjoiMjAyNC0xMS0yMlQyMDoyNzoxMS4wODhaIiwiaWQiOiJjYzVkYzFhMy1jMWU4LTRjZWEtODFhOS1mNTE3ODNkMzcwZGQifQ==","limit":"50","sort":"created_at","sortDirection":"desc"},"timestamp":"2024-11-29T11:05:20.484Z"}
+{"duration":"16ms","level":"info","message":"GET / - 200","method":"GET","path":"/","status":200,"timestamp":"2024-11-29T11:05:20.500Z"}

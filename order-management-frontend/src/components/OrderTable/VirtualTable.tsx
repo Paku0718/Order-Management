@@ -45,15 +45,15 @@ const VirtualTable: React.FC = () => {
         </div>
       );
     }
-
+  
     const order = orders[index];
-    return order ? (
+    return (
       <TableRow 
-        key={order.id} 
+        key={order?.id || `loading-${index}`} 
         order={order} 
         style={style} 
       />
-    ) : null;
+    );
   };
 
   // If no data and still loading, show a subtle loading indicator
